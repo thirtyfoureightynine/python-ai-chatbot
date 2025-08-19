@@ -93,13 +93,6 @@ Handled errors (e.g. quota, missing PATH)
 
 Built an interactive chat loop with memory
 
-📌 Next Steps
-
-Add /save command to export chat history.
-
-Add /clear command to reset context mid-conversation.
-
-Try different models (e.g. gpt-4o for more advanced responses).
 
 📝 License
 
