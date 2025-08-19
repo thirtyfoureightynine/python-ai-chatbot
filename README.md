@@ -36,7 +36,7 @@ Whispers call the deep.
 
 ⚙️ Setup
 1. Clone the repo
-git clone https://github.com/yourusername/python-ai-chatbot.git
+git clone https://github.com/thirtyfoureightynine/python-ai-chatbot.git
 cd python-ai-chatbot
 
 2. Install dependencies
